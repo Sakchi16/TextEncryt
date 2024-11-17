@@ -1,4 +1,4 @@
-# TextEncryt
+# TextEncrypt
 This project demonstrates a basic text encryption technique known as the Caesar cipher. The program takes a plaintext input from the user, along with a specified shift value, and applies the Caesar cipher to encrypt the text. The Caesar cipher works by shifting each letter in the plaintext by a certain number of positions in the alphabet. Non-letter characters (such as spaces, punctuation, and numbers) are not altered during the encryption process.
 
 The program is implemented in Java, using a simple console-based interface where the user enters the text to be encrypted and the shift value. The encrypted text is then outputted to the console. This project serves as an introductory example of classical encryption techniques, specifically the Caesar cipher.
